@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "start:dev": "dist/bundle.js",
-    "build": "webpack --config webpack.config.js"
+    "start:dev": "dist/bundle.js"
+
   },
   "keywords": [],
   "author": "",
